@@ -6,3 +6,4 @@ DOMAIN-SUFFIX,acl4.ssr
 
 DOMAIN-SUFFIX,52pojie.cn
 DOMAIN-SUFFIX,wenku.baidu.com
+IP-CIDR,124.239.150.6/8,no-resolve
